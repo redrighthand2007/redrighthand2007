@@ -6,7 +6,9 @@
 
 🎓 **Education:** B.Tech Computer Science, VIT Vellore (2024 - 2028)
 💻 **Current Focus:** Strengthening Data Structures & Algorithms (DSA) while diving deep into native Android App Development.
+<br>
 🚀 **Interests:** Building functional apps, exploring software architecture, and learning new tools.
+<br>
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/kushaghera2007/) • [LeetCode](https://leetcode.com/u/redrighthand2007/) • [Email](mailto:redrighthand2007@gmail.com) • [Portfolio](https://github.com/redrighthand2007/redrighthand2007)
 
 </div>
