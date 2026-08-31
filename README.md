@@ -39,16 +39,16 @@
 
 ### 📂 Featured Projects
 
-#### 📱 CacheDeal (Android)
+#### 📱 Swych (formerly CacheDeal) (Android)
 > *A hyper-local campus marketplace designed for VIT Vellore students to trade essentials with built-in accountability.*
 * **The Problem:** Replaces chaotic WhatsApp groups and eliminates "ghosting" with a robust reputation system (Green/Red Dots).
-* **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Firebase (Auth, Firestore, Storage).
-* **Highlights:** Implemented Firestore Batch Writes for atomic deal locking, mitigating race conditions during bidding. Built a fluid, reactive UI tied directly to backend database changes.
+* **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Supabase (Auth, PostgreSQL, Storage).
+* **Highlights:** Implemented a real-time reactive UI tied directly to backend database changes. Transitioned backend architecture to Supabase for robust relational data management.
 
 #### ☁️ CloudCover (Web)
-> *Instant, zero-bias insurance quotes. A blazing-fast Single Page Application built entirely without frameworks.*
-* **Tech Stack:** Pure Vanilla JS (ES6+), HTML5, CSS3.
-* **Highlights:** Engineered a custom Vanilla JS hash router for sub-1s page transitions. Features a modularized architecture, strict client-side validation, and a sleek glassmorphism UI.
+> *Instant, zero-bias insurance quotes. A modern Single Page Application built entirely without frontend frameworks.*
+* **Tech Stack:** Pure Vanilla JS (ES6+), HTML5, CSS3, AWS Serverless (Cognito, Lambda, DynamoDB).
+* **Highlights:** Engineered a custom Vanilla JS hash router for sub-1s page transitions. Features a modularized architecture, strict client-side validation, and a sleek glassmorphism UI powered by an AWS Serverless backend.
 
 #### 🧮 Mantis Calculator (Android)
 > *A privacy-focused, offline-first calculator built for power users, featuring Programmer and Scientific modes.*
