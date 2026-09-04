@@ -1,68 +1,46 @@
 <div align="center">
 
-# Hi, I'm Kush Aghera 👋
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║               👋 HI, I'M KUSH                ║
+║                                              ║
+║      Computer Science Student @ VIT '28      ║
+║        Building Apps • Web • Algorithms      ║
+║                                              ║
+║  🚀 Currently building: Swych (Android)      ║
+║  🧠 Currently learning: AWS Serverless       ║
+║  🎯 Goal: Software Engineer                  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
 
-### CS Student @ VIT Vellore ('28) | App Development Enthusiast
-
-🎓 **Education:** B.Tech Computer Science, VIT Vellore (2024 - 2028)
-💻 **Current Focus:** Strengthening Data Structures & Algorithms (DSA) while diving deep into native Android App Development.
-<br>
-🚀 **Interests:** Building functional apps, exploring software architecture, and learning new tools.
-<br>
-📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/kushaghera2007/) • [LeetCode](https://leetcode.com/u/redrighthand2007/) • [Email](mailto:redrighthand2007@gmail.com) • [Portfolio](https://github.com/redrighthand2007/redrighthand2007)
+<b><a href="https://github.com/redrighthand2007/redrighthand2007">🌐 View My Portfolio →</a></b> &nbsp;•&nbsp;
+<b><a href="https://www.linkedin.com/in/kushaghera2007/">🔗 LinkedIn</a></b> &nbsp;•&nbsp;
+<b><a href="mailto:redrighthand2007@gmail.com">✉️ Email</a></b> &nbsp;•&nbsp;
+<b><a href="https://leetcode.com/u/redrighthand2007/">💻 LeetCode</a></b>
 
 </div>
-<!-- //gjkshkjsd -->
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Android Development:**
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-DI-47A248?style=flat)
-
-**Web & Tools:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-#### 📱 Swych (formerly CacheDeal) (Android)
-> *A hyper-local campus marketplace designed for VIT Vellore students to trade essentials with built-in accountability.*
-* **The Problem:** Replaces chaotic WhatsApp groups and eliminates "ghosting" with a robust reputation system (Green/Red Dots).
-* **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Supabase (Auth, PostgreSQL, Storage).
-* **Highlights:** Implemented a real-time reactive UI tied directly to backend database changes. Transitioned backend architecture to Supabase for robust relational data management.
+| Project | Purpose | Tech Stack |
+| :--- | :--- | :--- |
+| **[📱 Swych](https://github.com/redrighthand2007/Swych-App)**<br>*(Android)* | **Shows Native App Architecture:** Hyper-local campus marketplace replacing chaotic WhatsApp trades. Features atomic bidding & a strict anti-ghosting reputation system. | `Kotlin` `Compose` `Supabase` `MVVM` |
+| **[☁️ CloudCover](https://github.com/redrighthand2007/CloudCover-Website)**<br>*(Web)* | **Shows Cloud/Serverless:** Zero-bias instant insurance quotes. Zero-framework SPA architecture with sub-1s navigation, powered by AWS. | `Vanilla JS` `AWS Lambda` `DynamoDB` |
+| **[🧮 Mantis Calculator](https://github.com/redrighthand2007/Mantis-Calculator)**<br>*(Android)* | **Shows Software Engineering:** Privacy-focused offline calculator for power users. Demonstrates rigid separation of concerns and complex state management. | `Kotlin` `Clean Architecture` `UDF` `Room` |
+| **[⚔️ Battle for Westeros](https://github.com/redrighthand2007/Gameofthrones-Webgame)**<br>*(Web)* | **Shows Frontend Fundamentals:** State-driven strategy game demonstrating advanced DOM manipulation and CSS Grid/Flexbox without heavy frameworks. | `Vanilla JS` `HTML5` `CSS3` |
 
-#### ☁️ CloudCover (Web)
-> *Instant, zero-bias insurance quotes. A modern Single Page Application built entirely without frontend frameworks.*
-* **Tech Stack:** Pure Vanilla JS (ES6+), HTML5, CSS3, AWS Serverless (Cognito, Lambda, DynamoDB).
-* **Highlights:** Engineered a custom Vanilla JS hash router for sub-1s page transitions. Features a modularized architecture, strict client-side validation, and a sleek glassmorphism UI powered by an AWS Serverless backend.
+---
 
-#### 🧮 Mantis Calculator (Android)
-> *A privacy-focused, offline-first calculator built for power users, featuring Programmer and Scientific modes.*
-* **Tech Stack:** Kotlin, Jetpack Compose, Clean Architecture + UDF, Dagger Hilt, Room DB.
-* **Highlights:** Enforced rigid separation of concerns using Clean Architecture. Managed complex mathematical logic via `mXparser` and handled multiple distinct UI states using `StateFlow`.
+## 🛠️ TECH STACK
 
-#### 💡 Pensieve (Android / Ongoing)
-> *A continuous learning playground and sandbox.*
-* **Concept:** I use this ongoing project to test new architectural patterns, experiment with libraries, and stay up-to-date with the latest developments in the Android/Kotlin ecosystem.
-
-#### ⚔️ Game of Thrones - Battle for Westeros (Web)
-> *A sleek, state-driven strategy web game built entirely from scratch.*
-* **Tech Stack:** Vanilla JavaScript, HTML5, CSS3 (Zero dependencies).
-* **Highlights:** A showcase of DOM manipulation and CSS layout architecture, handling game logic, state management, and custom audio without relying on heavy frontend frameworks.
+**Languages:** `Kotlin` • `Java` • `C++` • `JavaScript` • `HTML/CSS`<br>
+**Android:** `Jetpack Compose` • `MVVM` • `Clean Architecture` • `Room` • `Dagger Hilt`<br>
+**Cloud & Backend:** `Supabase` • `PostgreSQL` • `AWS (Cognito, Lambda, DynamoDB, S3)` • `Firebase`<br>
+**Tools:** `Git` • `Android Studio` • `GitHub`<br>
 
 ---
 
