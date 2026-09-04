@@ -37,7 +37,7 @@
 * **Tech Stack:** Kotlin, Clean Architecture, UDF, Room
 * **Repository:** https://github.com/redrighthand2007/Mantis-App
 
-### ⚔️ Battle for Westeros
+### ⚔️ GameOfThrones FE. 
 **Shows Frontend Fundamentals:** State-driven strategy game demonstrating advanced DOM manipulation and CSS Grid/Flexbox without heavy frameworks.
 * **Type:** Web Game
 * **Tech Stack:** Vanilla JS, HTML5, CSS3
