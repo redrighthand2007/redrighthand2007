@@ -1,18 +1,18 @@
 <div align="center">
 
-# ?? Hi, I'm Kush Aghera
+# 👋 Hi, I'm Kush Aghera
 
 **Computer Science Student @ VIT Vellore ('28) | App Development Enthusiast**
 
-?? **Currently building:** Swych (Android)  
-?? **Currently learning:** AWS Serverless  
-?? **Goal:** Software Engineer
+🚀 **Currently building:** Swych (Android)  
+🧠 **Currently learning:** AWS Serverless  
+🎯 **Goal:** Software Engineer
 
 </div>
 
 ---
 
-## ?? Connect With Me
+## 📬 Connect With Me
 
 * **LinkedIn:** https://www.linkedin.com/in/kushaghera2007/
 * **LeetCode:** https://leetcode.com/u/redrighthand2007/
@@ -21,27 +21,27 @@
 
 ---
 
-## ?? Featured Projects
+## 🚀 Featured Projects
 
-### ?? Swych
+### 📱 Swych
 **Shows Native App Architecture:** Hyper-local campus marketplace replacing chaotic WhatsApp trades. Features atomic bidding & a strict anti-ghosting reputation system.
 * **Type:** Android App
 * **Tech Stack:** Kotlin, Compose, Supabase, MVVM
 * **Repository:** https://github.com/redrighthand2007/Swych-App
 
-### ?? CloudCover
+### ☁️ CloudCover
 **Shows Cloud/Serverless:** Zero-bias instant insurance quotes. Zero-framework SPA architecture with sub-1s navigation, powered by AWS.
 * **Type:** Web SPA
 * **Tech Stack:** Vanilla JS, AWS Lambda, DynamoDB
 * **Repository:** https://github.com/redrighthand2007/CloudCover-Website
 
-### ?? Mantis Calculator
+### 🧮 Mantis Calculator
 **Shows Software Engineering:** Privacy-focused offline calculator for power users. Demonstrates rigid separation of concerns and complex state management.
 * **Type:** Android App
 * **Tech Stack:** Kotlin, Clean Architecture, UDF, Room
 * **Repository:** https://github.com/redrighthand2007/Mantis-App
 
-### ?? Battle for Westeros
+### ⚔️ Battle for Westeros
 **Shows Frontend Fundamentals:** State-driven strategy game demonstrating advanced DOM manipulation and CSS Grid/Flexbox without heavy frameworks.
 * **Type:** Web Game
 * **Tech Stack:** Vanilla JS, HTML5, CSS3
@@ -50,7 +50,7 @@
 
 ---
 
-## ??? Tech Stack
+## 🛠️ Tech Stack
 
 * **Languages:** Kotlin, Java, C++, JavaScript, HTML/CSS
 * **Android:** Jetpack Compose, MVVM, Clean Architecture, Room, Dagger Hilt
