@@ -4,10 +4,6 @@
 
 **Computer Science Student @ VIT Vellore ('28) | App Development Enthusiast**
 
-🚀 **Currently building:** Swych (Android)  
-🧠 **Currently learning:** AWS Serverless  
-🎯 **Goal:** Software Engineer
-
 </div>
 
 ---
@@ -50,11 +46,12 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks known
 
-* **Languages:** Kotlin, Java, C++, JavaScript, HTML/CSS
+* **Languages:** Java, C++
+* **Field Languages:** Kotlin, JavaScript,Html/Css
 * **Android:** Jetpack Compose, MVVM, Clean Architecture, Room, Dagger Hilt
-* **Cloud & Backend:** Supabase, PostgreSQL, AWS (Cognito, Lambda, DynamoDB, S3), Firebase
+* **Cloud & Backend:** Supabase, PostgreSQL, AWS (Cognito, Lambda, DynamoDB, S3)
 * **Tools:** Git, Android Studio, GitHub
 
 ---
