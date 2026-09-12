@@ -4,7 +4,7 @@
 
 **Computer Science Student @ VIT Vellore ('28) | App Development Enthusiast**
 
-** For Dedicated Portfolio Website : Click here **
+** For Dedicated Portfolio Website : * **Portfolio:** https://github.com/redrighthand2007/Kareer **
 
 </div>
 
@@ -15,7 +15,6 @@
 * **LinkedIn:** https://www.linkedin.com/in/kushaghera2007/
 * **LeetCode:** https://leetcode.com/u/redrighthand2007/
 * **Email:** redrighthand2007@gmail.com
-* **Portfolio:** https://github.com/redrighthand2007/redrighthand2007
 
 ---
 
