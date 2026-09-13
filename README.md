@@ -1,59 +1,105 @@
 <div align="center">
 
-# 👋 Hi, I'm Kush Aghera
+# Hi, I'm Kush 👋
 
-**Computer Science Student @ VIT Vellore ('28) | App Development Enthusiast**
+**Computer Science Student @ VIT Vellore ('28) | Software & App Developer**
 
-** For Dedicated Portfolio Website : * **Portfolio:** https://github.com/redrighthand2007/Kareer **
+Building software across mobile applications, web architecture, and cloud systems. <br>
+Currently focused on developing real-world projects and driving towards robust software engineering roles.
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 🚀 Current Focus
 
-* **LinkedIn:** https://www.linkedin.com/in/kushaghera2007/
-* **LeetCode:** https://leetcode.com/u/redrighthand2007/
-* **Email:** redrighthand2007@gmail.com
+- 🔨 **Building:** **Kareer** — Personal Career Operating System & **Swych** — Campus Marketplace App
+- 🧠 **Learning:** AWS Serverless Architecture & Cloud Native Patterns
+- 💻 **Practicing:** Data Structures, Algorithms, and System Design
 
 ---
 
-## 🚀 Featured Projects
+## 🔗 Quick Navigation
 
-### 📱 Swych
-**Shows Native App Architecture:** Hyper-local campus marketplace replacing chaotic WhatsApp trades. Features atomic bidding & a strict anti-ghosting reputation system.
-* **Type:** Android App
-* **Tech Stack:** Kotlin, Compose, Supabase, MVVM
-* **Repository:** https://github.com/redrighthand2007/Swych-App
+<div align="center">
+  
+[🌐 Portfolio](https://github.com/redrighthand2007/redrighthand2007) &nbsp;&bull;&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/kushaghera2007/) &nbsp;&bull;&nbsp; [💻 LeetCode](https://leetcode.com/u/redrighthand2007/) &nbsp;&bull;&nbsp; [📧 Email](mailto:redrighthand2007@gmail.com)
+
+</div>
+
+---
+
+## 🧩 What I Build
+
+**📱 Applications**
+- Native Android applications with Kotlin and Jetpack Compose.
+- Focus on Clean Architecture, MVVM, and offline-first capabilities.
+
+**🌐 Web & SPA**
+- Lightweight, high-performance web applications using Vanilla JavaScript.
+- Complex state-driven user interfaces without heavy framework bloat.
+
+**☁️ Cloud & Backend**
+- Serverless backends utilizing AWS (Lambda, DynamoDB) and Supabase.
+- Secure, role-based database integrations and REST APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Kotlin • Java • JavaScript (ES6+) • HTML5 • CSS3 • SQL
+
+### App Development
+Android • Jetpack Compose • MVVM • Clean Architecture • Room • Dagger Hilt
+
+### Cloud / Backend
+Node.js • Express.js • PostgreSQL • Supabase • AWS (Lambda, DynamoDB, Cognito, S3) • Firebase
+
+### Tools
+Git • GitHub • Android Studio • Postman • Figma
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Kareer
+Personal Career Operating System that connects profile, skills, evidence, projects, career direction, roadmaps, learning, opportunities, and applications.
+**Stack:** HTML • CSS • Vanilla JavaScript
+[Repository](https://github.com/redrighthand2007/KAREER)
+
+### 📱 Swych (Swap n' Switch)
+A hyper-local campus marketplace replacing chaotic WhatsApp trades. Features atomic bidding, "First-Come-First-Serve" locking, and a strict anti-ghosting reputation system.
+**Stack:** Kotlin • Jetpack Compose • Supabase • PostgreSQL
+[Repository](https://github.com/redrighthand2007/Swych-App)
 
 ### ☁️ CloudCover
-**Shows Cloud/Serverless:** Zero-bias instant insurance quotes. Zero-framework SPA architecture with sub-1s navigation, powered by AWS.
-* **Type:** Web SPA
-* **Tech Stack:** Vanilla JS, AWS Lambda, DynamoDB
-* **Repository:** https://github.com/redrighthand2007/CloudCover-Website
+An elegant, internal office management web application for Insurance Corner. Features a dynamic Due Queue for prioritizing missed premiums and upcoming dues.
+**Stack:** Node.js • Express • PostgreSQL • Vanilla JS
+[Repository](https://github.com/redrighthand2007/CloudCover-Website)
 
 ### 🧮 Mantis Calculator
-**Shows Software Engineering:** Privacy-focused offline calculator for power users. Demonstrates rigid separation of concerns and complex state management.
-* **Type:** Android App
-* **Tech Stack:** Kotlin, Clean Architecture, UDF, Room
-* **Repository:** https://github.com/redrighthand2007/Mantis-App
+An "all-in-one" offline Android calculator built for power users. Unifies Basic, Scientific, Programmer, and Converter engines with fluid animations and rigid Clean Architecture.
+**Stack:** Kotlin • Jetpack Compose • Room • Clean Architecture
+[Repository](https://github.com/redrighthand2007/Mantis-App)
 
-### ⚔️ GameOfThrones FE. 
-**Shows Frontend Fundamentals:** State-driven strategy game demonstrating advanced DOM manipulation and CSS Grid/Flexbox without heavy frameworks.
-* **Type:** Web Game
-* **Tech Stack:** Vanilla JS, HTML5, CSS3
-* **Repository:** https://github.com/redrighthand2007/Gameofthrones-Webgame
-* **Live Website:** https://redrighthand2007.github.io/Gameofthrones-Webgame/
+### ⚔️ Battle for Westeros
+A state-driven strategy web game demonstrating advanced DOM manipulation, automated AI opponents, and CSS Grid/Flexbox architectures without heavy frameworks.
+**Stack:** Vanilla JS • HTML5 • CSS3
+[Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) • [Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/)
 
 ---
 
-## 🛠️ Tech Stacks known
+## 📊 GitHub Statistics
 
-* **Languages:** Java, C++
-* **Field Languages:** Kotlin, JavaScript,Html/Css
-* **Android:** Jetpack Compose, MVVM, Clean Architecture, Room, Dagger Hilt
-* **Cloud & Backend:** Supabase, PostgreSQL, AWS (Cognito, Lambda, DynamoDB, S3)
-* **Tools:** Git, Android Studio, GitHub
+<div align="center">
+  <a href="https://github.com/redrighthand2007">
+    <img src="https://github-readme-stats.vercel.app/api?username=redrighthand2007&show_icons=true&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=ffffff" alt="Kush's GitHub Stats" />
+  </a>
+  <a href="https://github.com/redrighthand2007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redrighthand2007&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=ffffff" alt="Kush's GitHub Streak" />
+  </a>
+</div>
 
 ---
 
