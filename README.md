@@ -13,8 +13,8 @@ Currently focused on developing real-world projects and driving towards robust s
 
 ## 🚀 Current Focus
 
-- 🔨 **Building:** **Kareer** — Personal Career Operating System & **Swych** — Campus Marketplace App
-- 🧠 **Learning:** AWS Serverless Architecture & Cloud Native Patterns
+- 🔨 **Building:** **Kareer** — Personal Career Operating System    &       **Swych** — Campus Marketplace App
+- 🧠 **Learning:** AWS Serverless Architecture    &     Cloud Native Patterns
 - 💻 **Practicing:** Data Structures, Algorithms, and System Design
 
 ---
@@ -35,29 +35,30 @@ Currently focused on developing real-world projects and driving towards robust s
 - Native Android applications with Kotlin and Jetpack Compose.
 - Focus on Clean Architecture, MVVM, and offline-first capabilities.
 
+**☁️ Cloud & Backend**
+- Serverless backends utilizing AWS (Lambda, DynamoDB) and Supabase.
+- Secure, role-based database integrations and REST APIs.
+
 **🌐 Web & SPA**
 - Lightweight, high-performance web applications using Vanilla JavaScript.
 - Complex state-driven user interfaces without heavy framework bloat.
 
-**☁️ Cloud & Backend**
-- Serverless backends utilizing AWS (Lambda, DynamoDB) and Supabase.
-- Secure, role-based database integrations and REST APIs.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-Kotlin • Java • JavaScript (ES6+) • HTML5 • CSS3 • SQL
+Cpp • Java • JavaScript (ES6+) • HTML5 • CSS3 • SQL
 
 ### App Development
-Android • Jetpack Compose • MVVM • Clean Architecture • Room • Dagger Hilt
+Android • Jetpack Compose • MVVM • Clean Architecture • Room • Dagger Hilt • Kotlin
 
 ### Cloud / Backend
 Node.js • Express.js • PostgreSQL • Supabase • AWS (Lambda, DynamoDB, Cognito, S3) • Firebase
 
 ### Tools
-Git • GitHub • Android Studio • Postman • Figma
+Git • GitHub • Android Studio • Figma
 
 ---
 
@@ -86,20 +87,8 @@ An "all-in-one" offline Android calculator built for power users. Unifies Basic,
 ### ⚔️ Battle for Westeros
 A state-driven strategy web game demonstrating advanced DOM manipulation, automated AI opponents, and CSS Grid/Flexbox architectures without heavy frameworks.
 **Stack:** Vanilla JS • HTML5 • CSS3
-[Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) • [Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/redrighthand2007">
-    <img src="https://github-readme-stats.vercel.app/api?username=redrighthand2007&show_icons=true&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=ffffff" alt="Kush's GitHub Stats" />
-  </a>
-  <a href="https://github.com/redrighthand2007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redrighthand2007&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=ffffff" alt="Kush's GitHub Streak" />
-  </a>
-</div>
+[Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) 
+[Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/)
 
 ---
 
