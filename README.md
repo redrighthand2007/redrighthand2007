@@ -64,30 +64,27 @@ Git • GitHub • Android Studio • Figma
 
 ## 🌟 Featured Projects
 
-### 🚀 Kareer
+### 🚀 Kareer | [Repository](https://github.com/redrighthand2007/KAREER)
 Personal Career Operating System that connects profile, skills, evidence, projects, career direction, roadmaps, learning, opportunities, and applications.
 **Stack:** HTML • CSS • Vanilla JavaScript
-[Repository](https://github.com/redrighthand2007/KAREER)
 
-### 📱 Swych (Swap n' Switch)
+
+### 📱 Swych (Swap n' Switch) | [Repository](https://github.com/redrighthand2007/Swych-App)
 A hyper-local campus marketplace replacing chaotic WhatsApp trades. Features atomic bidding, "First-Come-First-Serve" locking, and a strict anti-ghosting reputation system.
 **Stack:** Kotlin • Jetpack Compose • Supabase • PostgreSQL
-[Repository](https://github.com/redrighthand2007/Swych-App)
 
-### ☁️ CloudCover
+
+### ☁️ CloudCover | [Repository](https://github.com/redrighthand2007/CloudCover-Website)
 An elegant, internal office management web application for Insurance Corner. Features a dynamic Due Queue for prioritizing missed premiums and upcoming dues.
 **Stack:** Node.js • Express • PostgreSQL • Vanilla JS
-[Repository](https://github.com/redrighthand2007/CloudCover-Website)
 
-### 🧮 Mantis Calculator
+### 🧮 Mantis Calculator | [Repository](https://github.com/redrighthand2007/Mantis-App)
 An "all-in-one" offline Android calculator built for power users. Unifies Basic, Scientific, Programmer, and Converter engines with fluid animations and rigid Clean Architecture.
 **Stack:** Kotlin • Jetpack Compose • Room • Clean Architecture
-[Repository](https://github.com/redrighthand2007/Mantis-App)
 
-### ⚔️ Battle for Westeros
+### ⚔️ Battle for Westeros | [Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) 
 A state-driven strategy web game demonstrating advanced DOM manipulation, automated AI opponents, and CSS Grid/Flexbox architectures without heavy frameworks.
 **Stack:** Vanilla JS • HTML5 • CSS3
-[Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) 
 [Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/)
 
 ---
