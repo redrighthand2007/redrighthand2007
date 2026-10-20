@@ -112,18 +112,6 @@ ME ➔ PROFILE ➔ SKILLS ➔ EVIDENCE ➔ PROJECTS ➔ TARGET ROLE ➔ ROADMAP 
 | **🧮 Mantis Calculator** | Power user offline Android calculator unifying Basic, Scientific, Programmer, and Unit Converter engines. | Kotlin, Jetpack Compose, Room, Clean Arch | [Repository](https://github.com/redrighthand2007/Mantis-App) |
 | **⚔️ Battle for Westeros** | Real-time browser strategy game featuring state-driven DOM engines, AI opponents, and modular CSS Grid. | Vanilla JS, HTML5, CSS3 | [Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) • [Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/) |
 
----
-
-## 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <a href="https://github.com/redrighthand2007">
-    <img src="https://github-readme-stats.vercel.app/api?username=redrighthand2007&show_icons=true&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=ffffff" alt="Kush's GitHub Stats" />
-  </a>
-  <a href="https://github.com/redrighthand2007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=redrighthand2007&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=ffffff" alt="Kush's GitHub Streak" />
-  </a>
-</div>
 
 ---
 
