@@ -26,6 +26,18 @@ Focused on engineering real-world products, clean software architecture, and hig
 
 ---
 
+## 🧠 Career Operating Philosophy
+
+I approach software engineering through a systematic, proof-driven feedback loop:
+
+```text
+Identity ➔ Target Role ➔ Skills ➔ Gap Analysis ➔ Concrete Evidence ➔ Measurable Progress
+```
+
+> **Core Principle: Evidence > Claims.** Every skill is backed by open-source code, architectural decisions, and working software.
+
+---
+
 ## 🧭 Technical Journey & Growth Path
 
 ```text
@@ -101,15 +113,33 @@ Foundations & Mobile Architecture ──► Cloud-Native & Backend Systems ─�
 
 ---
 
+## 🔗 Skills-to-Evidence Matrix
+
+| Engineering Area | Key Competencies | Concrete Proof / Implementation |
+| :--- | :--- | :--- |
+| **Android Architecture** | Kotlin, Jetpack Compose, Clean Architecture, MVVM, Room DB | [Swych](https://github.com/redrighthand2007/Swych-App) (Marketplace), [Mantis](https://github.com/redrighthand2007/Mantis-App) (Offline Engine) |
+| **Cloud & Backend** | AWS (Lambda, DynamoDB), Node.js, Express, PostgreSQL, Supabase | [Swych Backend](https://github.com/redrighthand2007/Swych-App), [CloudCover](https://github.com/redrighthand2007/CloudCover-Website) (Due Queue System) |
+| **Web & State Systems** | Vanilla JS (ES6+), DOM Manipulation, State Machines, Grid/Flex | [Battle for Westeros](https://github.com/redrighthand2007/Gameofthrones-Webgame) (Browser Strategy Game) |
+| **Algorithms & CS** | Problem Solving, Time/Space Optimization, OOP, C++, Java | [LeetCode Profile](https://leetcode.com/u/redrighthand2007/) & Data Structure Implementations |
+
+---
+
+## 💻 Problem Solving & Core Foundations
+
+- **Data Structures & Algorithms:** Dedicated practice on [LeetCode](https://leetcode.com/u/redrighthand2007/) focusing on core algorithmic patterns (Arrays, Two Pointers, Trees, Graphs, Dynamic Programming) with C++ and Java.
+- **System Design:** Understanding modular boundaries, relational data normalization, database indexing, caching patterns, and decoupled serverless workflows.
+- **Core Engineering:** Applying SOLID principles, Clean Architecture separation of concerns, and defensive programming in every codebase.
+
+---
+
 ## 🌟 Featured Projects & Proof of Work
 
-| Project | Description | Stack | Link |
+| Project | Description | Stack & Architecture | Link |
 | :--- | :--- | :--- | :--- |
-| **📱 Swych** | Hyper-local campus marketplace replacing chaotic chat trading with atomic bidding and anti-ghosting locks. | Kotlin, Jetpack Compose, Supabase, PostgreSQL | [Repository](https://github.com/redrighthand2007/Swych-App) |
-| **☁️ CloudCover** | Internal office management platform with dynamic Due Queue for prioritizing insurance renewals and dues. | Node.js, Express, PostgreSQL, Vanilla JS | [Repository](https://github.com/redrighthand2007/CloudCover-Website) |
-| **🧮 Mantis Calculator** | Power user offline Android calculator unifying Basic, Scientific, Programmer, and Unit Converter engines. | Kotlin, Jetpack Compose, Room, Clean Arch | [Repository](https://github.com/redrighthand2007/Mantis-App) |
-| **⚔️ Battle for Westeros** | Real-time browser strategy game featuring state-driven DOM engines, AI opponents, and modular CSS Grid. | Vanilla JS, HTML5, CSS3 | [Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) • [Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/) |
-
+| **📱 Swych** | Hyper-local campus marketplace replacing chaotic chat trading with atomic bidding and anti-ghosting locks. | Kotlin • Jetpack Compose • Supabase • PostgreSQL<br>*(Clean Architecture, Realtime State)* | [Repository](https://github.com/redrighthand2007/Swych-App) |
+| **☁️ CloudCover** | Internal office management platform with dynamic Due Queue for prioritizing insurance renewals and dues. | Node.js • Express • PostgreSQL • Vanilla JS<br>*(REST API, Relational Schema Design)* | [Repository](https://github.com/redrighthand2007/CloudCover-Website) |
+| **🧮 Mantis Calculator** | Power user offline Android calculator unifying Basic, Scientific, Programmer, and Unit Converter engines. | Kotlin • Jetpack Compose • Room • Clean Arch<br>*(Offline Persistence, Custom Engine)* | [Repository](https://github.com/redrighthand2007/Mantis-App) |
+| **⚔️ Battle for Westeros** | Real-time browser strategy game featuring state-driven DOM engines, AI opponents, and modular CSS Grid. | Vanilla JS • HTML5 • CSS3<br>*(Custom DOM Engine, Zero Framework)* | [Repository](https://github.com/redrighthand2007/Gameofthrones-Webgame) • [Live Demo](https://redrighthand2007.github.io/Gameofthrones-Webgame/) |
 
 ---
 
