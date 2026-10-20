@@ -26,30 +26,28 @@ Focused on engineering real-world products, clean software architecture, and hig
 
 ---
 
-## 🧭 Career Trajectory & Roadmap (2024 – 2028)
-
-My career operating philosophy: **Skill ➔ Evidence ➔ Proof ➔ Impact**.
+## 🧭 Technical Journey & Growth Path
 
 ```text
-ME ➔ PROFILE ➔ SKILLS ➔ EVIDENCE ➔ PROJECTS ➔ TARGET ROLE ➔ ROADMAP ➔ PROGRESS
+Foundations & Mobile Architecture ──► Cloud-Native & Backend Systems ──► Scalable Distributed Systems
 ```
 
-### 📍 Target Milestone: Software Development Engineer (SDE / App & Cloud)
+### 🔹 Stage 1: Engineering Foundations & Native Android
+*Focused on core software design, clean code principles, and reactive mobile architectures.*
+- **Core CS & Problem Solving:** Deep practice in Data Structures, Algorithms, and Object-Oriented Design using C++ and Java.
+- **Modern Android Engineering:** Native development with Kotlin, Jetpack Compose, Clean Architecture, and MVVM patterns.
+- **State & Data Reliability:** Offline-first caching, Room DB persistence, and predictable uni-directional data flow.
 
-- **Phase 1: Engineering Foundations & Mobile Core (2024 - 2025)**
-  - [x] Core Computer Science principles, OOP, and Data Structures in C++ / Java.
-  - [x] Native Android engineering with Kotlin, Jetpack Compose, MVVM, and Room.
-  - [x] Clean Architecture patterns, offline-first data caching, and reactive UI state.
+### 🔹 Stage 2: Cloud-Native & Backend Systems
+*Expanding into full-stack engineering, serverless microservices, and database design.*
+- **Backend Services:** Building REST APIs and relational database architectures with Node.js, Express, and PostgreSQL.
+- **Cloud Infrastructure:** Leveraging AWS (Lambda, DynamoDB, Cognito, S3) and Supabase for serverless, event-driven pipelines.
+- **System Quality:** Clean API contracts, modular service boundaries, and production deployments.
 
-- **Phase 2: Distributed Systems & Scalable Cloud (2025 - 2026)**
-  - [ ] Production-grade backend design with Node.js, PostgreSQL, and Supabase.
-  - [ ] Cloud-native serverless pipelines using AWS (Lambda, API Gateway, DynamoDB, S3).
-  - [ ] Real-world deployment, automated CI/CD workflows, and test coverage.
-
-- **Phase 3: High-Scale Systems & Professional Impact (2026 - 2028)**
-  - [ ] Complex distributed system design, microservices, and performance optimization.
-  - [ ] High-impact software engineering internships and open-source contributions.
-  - [ ] Production-level mobile and cloud applications serving real user communities.
+### 🔹 Stage 3: Scalable Systems & High-Impact Engineering
+*Scaling towards resilient distributed architectures and production software engineering.*
+- **System Design:** Distributed systems fundamentals, caching strategies, and asynchronous processing.
+- **Real-World Impact:** Shipping production-grade products that solve tangible problems for active users.
 
 ---
 
